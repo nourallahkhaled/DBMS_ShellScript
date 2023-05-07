@@ -1,0 +1,3 @@
+FieldName | FieldType | Pkey 
+name|string|
+id|int|PK

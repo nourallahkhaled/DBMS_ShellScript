@@ -1,0 +1,4 @@
+ FieldName | FieldType | Pkey 
+name|string|PK
+age|int|PK
+phone|int|PK

@@ -1,0 +1,4 @@
+FieldName | FieldType | PrimaryKey 
+Full_name|string|
+age|int|
+id|int|PK
